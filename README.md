@@ -1,7 +1,7 @@
-#### Screenshot
+## Screenshot
 coming soon
 
-#### Installation
+## Installation
 ```
 $ git clone https://github.com/Ahmet-Arvas/electronjs-serialport-template/
 $ cd electronjs-serialport-template
